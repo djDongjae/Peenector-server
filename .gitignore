@@ -1,4 +1,27 @@
 # 프로젝트 제외 경로
-/.gradle/
+.gradle
 /build/
-/build/classes/java/main/
+!gradle/wrapper/gradle-wrapper.jar
+/out
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
