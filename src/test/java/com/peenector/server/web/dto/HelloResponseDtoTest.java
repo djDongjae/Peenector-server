@@ -1,4 +1,4 @@
-package com.peenector.server.web.dto;
+package com.peenector.server.dto;
 
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.assertThat;

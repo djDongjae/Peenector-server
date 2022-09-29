@@ -1,4 +1,4 @@
-package com.peenector.server.web.domain.posts;
+package com.peenector.server.domain.posts;
 
 import com.peenector.server.domain.posts.Posts;
 import com.peenector.server.domain.posts.PostsRepository;
