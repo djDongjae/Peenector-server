@@ -1,4 +1,4 @@
-package com.peenector.server.dto;
+package com.peenector.server.web.dto;
 
 import com.peenector.server.domain.posts.Posts;
 import lombok.Builder;

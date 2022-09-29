@@ -1,4 +1,4 @@
-package com.peenector.server.dto;
+package com.peenector.server.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

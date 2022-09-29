@@ -1,6 +1,6 @@
-package com.peenector.server;
+package com.peenector.server.web;
 
-import com.peenector.server.dto.HelloResponseDto;
+import com.peenector.server.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
