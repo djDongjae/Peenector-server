@@ -1,7 +1,6 @@
 package com.peenector.server.service.posts;
 import com.peenector.server.domain.posts.Posts;
 import com.peenector.server.domain.posts.PostsRepository;
-import com.peenector.server.web.PostsApiController;
 import com.peenector.server.web.dto.PostsResponseDto;
 import com.peenector.server.web.dto.PostsSaveRequestDto;
 import com.peenector.server.web.dto.PostsUpdateRequestDto;
